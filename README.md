@@ -2,10 +2,10 @@
 
 How to use:
 
-
 1.  Connect all the components like the image
 2.  Connect the Arduino through USB port
-3.  Paste the source code into Arduino IDE
+3.  In board manager (left-menu), include the libraries in Adafruit_GFX, Adafruit_SSD1306, DHT, pitches.
+3.  Paste the source code (WateringControl.cpp) into Arduino IDE
 4.  Verify and Upload the code
 
 
